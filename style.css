@@ -1,0 +1,19 @@
+body {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: Arial;
+}
+.slider {
+    border: 2px solid #333;
+    padding: 20px;
+    box-shadow: 0 0 10px #aaa;
+}
+img {
+    width: 300px;
+    height: 200px;
+}
+.controls {
+    margin-top: 10px;
+    text-align: center;
+}
